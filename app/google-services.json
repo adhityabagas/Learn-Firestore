@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725724319519",
+    "firebase_url": "https://menufood-f1365.firebaseio.com",
+    "project_id": "menufood-f1365",
+    "storage_bucket": "menufood-f1365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725724319519:android:550c915cef55f4dd7aea2a",
+        "android_client_info": {
+          "package_name": "com.adhityabagasmiwa.learnfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725724319519-den232bv8g6htfc0s1ni2io29a6om9fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adhityabagasmiwa.learnfirestore",
+            "certificate_hash": "265f8919886bb0ad774db018745cc312eb2c2700"
+          }
+        },
+        {
+          "client_id": "725724319519-8liq6fv8iof1o4qn7f3shvg0g8fj4s12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-6LPsaF4lpRYdoSAw3-Rm8uc8EOvZ9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725724319519-8liq6fv8iof1o4qn7f3shvg0g8fj4s12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
